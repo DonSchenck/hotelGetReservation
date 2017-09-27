@@ -19,7 +19,7 @@ namespace hotelGetReservation
 
         public static IWebHost BuildWebHost(string[] args) =>
             WebHost.CreateDefaultBuilder(args)
-                .UseStartup<Startup>()
+                .UseStartup<Startup>().UseUrls("http://*:8080")
                 .Build();
     }
 }
