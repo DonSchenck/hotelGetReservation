@@ -1,9 +1,8 @@
-﻿<Properties StartupConfiguration="{B318BB4F-29AD-4A92-AA2F-8F989424443B}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/ReservationsController.cs">
+﻿<Properties StartupConfiguration="{B2CD7FEC-428A-4944-8165-69CFB60BD1E4}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="hotelGetReservation Status">
     <Files>
-      <File FileName="Models/Reservations.cs" Line="17" Column="1" />
-      <File FileName="Controllers/ReservationsController.cs" Line="21" Column="1" />
-      <File FileName="Models/ReservationsContext.cs" Line="12" Column="40" />
+      <File FileName="Controllers/ReservationsController.cs" Line="27" Column="34" />
+      <File FileName="hotelGetReservation Status" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
