@@ -24,7 +24,7 @@ namespace hotelGetReservation.Controllers
             reservations.CheckIn = DateTime.Today;
             reservations.Id = "123456";
             reservations.NumberOfNights = 2;
-            reservations.Rate = 139.99;
+            reservations.Rate = 239.99;
 
             // Return reservation as JSON
             if (reservations == null) {
