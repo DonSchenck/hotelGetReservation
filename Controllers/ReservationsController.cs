@@ -16,15 +16,10 @@ namespace hotelGetReservation.Controllers
 		public string Get(string id)
 		{
             // Connect to database 
-            // THIS IS PRODUCTION CODE ==> var db = new ReservationsContext();
+            var db = new ReservationsContext();
 
             // Run query to get this reservation
-            // THIS IS PRODUCTION CODE ==> var reservations = db.Reservations.Where(p => p.Id == id);
-            Reservations reservations = new Reservations();
-            reservations.CheckIn = DateTime.Today;
-            reservations.Id = "123456";
-            reservations.NumberOfNights = 7;
-            reservations.Rate = 539.99;
+            var reservations = db.Reservations.Where(p => p.Id == id);
 
             // Return reservation as JSON
             if (reservations == null) {

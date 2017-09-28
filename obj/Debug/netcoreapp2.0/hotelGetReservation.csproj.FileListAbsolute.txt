@@ -1,0 +1,12 @@
+/Users/dschenck/shared/hotelGetReservation/bin/Debug/netcoreapp2.0/libe_sqlite3.dylib
+/Users/dschenck/shared/hotelGetReservation/bin/Debug/netcoreapp2.0/hotelGetReservation.deps.json
+/Users/dschenck/shared/hotelGetReservation/bin/Debug/netcoreapp2.0/hotelGetReservation.runtimeconfig.json
+/Users/dschenck/shared/hotelGetReservation/bin/Debug/netcoreapp2.0/hotelGetReservation.runtimeconfig.dev.json
+/Users/dschenck/shared/hotelGetReservation/bin/Debug/netcoreapp2.0/hotelGetReservation.dll
+/Users/dschenck/shared/hotelGetReservation/bin/Debug/netcoreapp2.0/hotelGetReservation.pdb
+/Users/dschenck/shared/hotelGetReservation/obj/Debug/netcoreapp2.0/hotelGetReservation.csprojResolveAssemblyReference.cache
+/Users/dschenck/shared/hotelGetReservation/obj/Debug/netcoreapp2.0/hotelGetReservation.csproj.CoreCompileInputs.cache
+/Users/dschenck/shared/hotelGetReservation/obj/Debug/netcoreapp2.0/hotelGetReservation.AssemblyInfoInputs.cache
+/Users/dschenck/shared/hotelGetReservation/obj/Debug/netcoreapp2.0/hotelGetReservation.AssemblyInfo.cs
+/Users/dschenck/shared/hotelGetReservation/obj/Debug/netcoreapp2.0/hotelGetReservation.dll
+/Users/dschenck/shared/hotelGetReservation/obj/Debug/netcoreapp2.0/hotelGetReservation.pdb

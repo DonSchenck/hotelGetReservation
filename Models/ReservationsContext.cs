@@ -8,7 +8,7 @@ namespace hotelGetReservation.Models
 
 		protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
 		{
-			string dbconn = System.Environment.GetEnvironmentVariable("hotel_dbconn");
+            string dbconn = System.Environment.GetEnvironmentVariable("dbconn");
 			optionsBuilder.UseSqlServer(dbconn);
 		}
 	}
